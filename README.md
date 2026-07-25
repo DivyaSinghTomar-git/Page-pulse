@@ -139,4 +139,4 @@ tests/
 
 ## Author
 
-Dipali Singh
+Divya Singh Tomar
